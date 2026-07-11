@@ -1,7 +1,7 @@
 # Theme (Week 02)
 
 ## Visual Direction
-A clean, optimistic productivity style with strong contrast, warm neutrals, and a high-clarity action color.
+We are aiming for a clean, optimistic productivity look. The palette leans on warm neutrals, strong contrast, and a clear action color so the interface feels calm but still energetic.
 
 ## Color Palette
 - Background: #F7F5F2
@@ -22,15 +22,18 @@ A clean, optimistic productivity style with strong contrast, warm neutrals, and 
 ## Layout Principles
 - Mobile-first responsive layout
 - 8px spacing system
-- Content width limit for readability
-- Primary CTA consistently visible on key screens
+- A readable content width so text never feels crowded
+- A primary call to action that stays easy to find on key screens
 
 ## Components to Design First
-- App shell (header/nav)
-- Auth forms
-- Item list/table cards
-- Filter/search bar
-- Modal or slide-over for create/edit actions
+- App shell with header and navigation
+- Login and signup forms
+- Item list view with cards or table layout
+- Search and filter controls
+- Modal or slide-over panels for create and edit actions
 
-## For Canvas Submission
-Capture a screenshot of the Color Palette and Typography sections.
+## Submission Status
+- Theme direction: complete
+- Typography direction: complete
+- Color palette: complete
+- Canvas screenshot needed: capture the palette and typography sections
