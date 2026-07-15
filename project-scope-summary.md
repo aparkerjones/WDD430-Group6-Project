@@ -17,7 +17,3 @@ Our goal for Week 02 is to get the group project organized and ready for develop
 ## Current Status
 - Repository URL: https://github.com/aparkerjones/WDD430-Group6-Project.git
 - Local repo copy: cloned and available in this workspace
-
-## Limitations and Constraints
-- The finished application is not expected yet; this week is about setup, planning, and design direction.
-- The work items are intentionally starting points and may change as the project develops.
